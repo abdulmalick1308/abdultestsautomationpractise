@@ -1,0 +1,9 @@
+-- download the project from the git
+
+-- make sure if the project is builty and you get all the necessary jars, or else do a pom install
+
+-- the data is given in the feature file
+
+-- You can find the runner file under src/test/java/runner. Then run the class as a JUnit test
+
+-- The report used is html and the same can be found under the folder - target/cucumber-html-report
